@@ -74,7 +74,7 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 
 <br/> -->
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel Olivares&show_icons=true&theme=radical)
+<!-- ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel Olivares&show_icons=true&theme=radical) -->
 
 <!-- <br/> -->
 
