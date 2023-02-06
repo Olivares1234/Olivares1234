@@ -21,6 +21,7 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 
 ### Things I code with
 <hr/>
+  
 
 <!-- [![MongoDb Badge](https://img.shields.io/badge/Mongodb-0081CB?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Olivares1234) -->
 <!-- [![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Olivares1234) -->
@@ -31,6 +32,7 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 <!-- [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/raihanhosen011) -->
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Olivares1234)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/raihanhosen011)
+[![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/Olivares1234)
 <!-- [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/raihanhosen011) -->
 <!-- [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/raihanhosen011) -->
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Olivares1234)
