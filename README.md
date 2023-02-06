@@ -29,8 +29,9 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Olivares1234)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Olivares1234)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Olivares1234)
-<!-- [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/raihanhosen011) --><br>
- [![Java Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Olivares1234)<br>
+<!-- [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/raihanhosen011) --
+
+[![Java Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Olivares1234)<br>
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Olivares1234)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/raihanhosen011)
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/Olivares1234)
