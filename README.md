@@ -1,6 +1,6 @@
 <!-- ![Github Banner](https://raw.githubusercontent.com/raihanhosen011/raihanhosen011/main/github-bennar.png) -->
 
-<center><image src='2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif' width=80%></center>
+<center><image src='2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif' width=70%></center>
 
 ## Hi there, I am Gabriel Olivares 
 
