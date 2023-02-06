@@ -12,8 +12,8 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivaresgabby25@gmail.com)
 
 
-- 🔭 I’m currently work with Front-end development
-- 🌱 I’m currently learning MERN 
+- 🔭 I’m currently work with Full Stack Web development
+- 🌱 I’m currently learning other Frameworks technology 
 - 🥅 2021 Goals: Completing Web Development
 - ⚡ Fun fact: I love to editing and reading
 
