@@ -20,14 +20,14 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 ### Things I code with
 <hr/>
 
-<!-- [![MongoDb Badge](https://img.shields.io/badge/MongoDb-0081CB?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/raihanhosen011) -->
-<!-- [![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/raihanhosen011) -->
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/raihanhosen011)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/raihanhosen011)
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/raihanhosen011)
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/raihanhosen011)
+<!-- [![MongoDb Badge](https://img.shields.io/badge/MongoDb-0081CB?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Olivares1234) -->
+<!-- [![Express Badge](https://img.shields.io/badge/EXPRESS-330F63?style=for-the-badge&logo=express&logoColor=white)](https://github.com/Olivares1234) -->
+[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Olivares1234)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Olivares1234)
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/Olivares1234)
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Olivares1234)
 <!-- [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/raihanhosen011) -->
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/raihanhosen011)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Olivares1234)
 <!-- [![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](https://github.com/raihanhosen011) -->
 <!-- [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/raihanhosen011) -->
 <!-- [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/raihanhosen011) -->
@@ -41,7 +41,7 @@ Hi,I am Gabriel. I am an experienced Full stack web developer. I have worked in 
 <!-- [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/raihanhosen011)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/raihanhosen011) -->
 <!-- [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/raihanhosen011) -->
-[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/raihanhosen011)
+[![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Olivares1234)
 [![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/Olivares1234)
 <!-- [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/raihanhosen011) -->
 <!-- [![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/raihanhosen011) -->
